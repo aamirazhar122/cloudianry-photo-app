@@ -16,18 +16,12 @@ This project is a gallery app built with Next.js and Cloudinary. It showcases im
 - **Next.js**: The React framework used for building the application.
 - **Cloudinary**: Cloud service used for image uploading, optimization, and delivery.
 - **Shadcn UI**: UI library used for building interactive UI components.
-- **Material UI**: React UI framework used for designing UI components.
 - **Tailwind CSS**: A utility-first CSS framework used for styling the application.
 
 ## Getting Started
 
 To get started with this project, follow the steps below:
 
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/Danish-Razzaq/Gallery_App.git
-    cd nextjs-gallery-app
-    ```
 
 2. **Install dependencies**:
     ```bash
@@ -44,8 +38,6 @@ To get started with this project, follow the steps below:
     ```bash
     npm run dev
     ```
-
-   Open [http://Gallery-APP](https://gallery-app-roan-ten.vercel.app/) with your browser to see the result.
 
 ## Available Scripts
 
