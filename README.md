@@ -59,6 +59,4 @@ In the project directory, you can run:
 
 If you would like to contribute to the project, please fork the repository, create a feature branch, and open a Pull Request.
 
-## License
-
-This project is open-source and available under the MIT License.
+## vercel 
