@@ -1,4 +1,4 @@
-// File: D:\learning 1\projects 1\cloudinary-photo-app\Gallery_App\src\app\gallery\page.tsx
+// File: D:\learning 1\projects 1\cloudinary-photo-app\src\app\gallery\page.tsx
 import * as entry from '../../../../src/app/gallery/page.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

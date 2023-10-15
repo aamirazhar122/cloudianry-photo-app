@@ -8,7 +8,7 @@ interface MyImages {
 }
 
 // Lazy load the View component
-const View = React.lazy(() => import('./view'));
+const View = React.lazy(() => import ('./view'));
 
 const Gallery = async () => {
   
